@@ -1,0 +1,8 @@
+export default {
+  WHITE: '#f2f2f2',
+  BLACK: '#000',
+  COCKTAIL_GREY_TEXT: '#808080',
+  COCKTAIL_GREY: '#e8e8e8',
+  COCKTAIL_RED: '#d35881',
+  COCKTAIL_RED_TRANSLUCID: '#f5d0dc',
+}

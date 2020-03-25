@@ -1,0 +1,6 @@
+export { default as DetailsScreenContainer } from './DetailsScreenContainer'
+export { default as IngredientsList } from './IngredientsList'
+export { default as CocktailImage } from './CocktailImage'
+export { default as DetailsTitle } from './DetailsTitle'
+export { default as HeaderDetailsScreen } from './HeaderDetailsScreen'
+export { default as IngredientItems } from './IngredientItems'
